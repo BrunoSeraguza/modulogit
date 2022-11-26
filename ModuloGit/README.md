@@ -4,4 +4,4 @@ Alteraçao do readme para descrever melhor meu problema
 alteracao feita no MASTER
 Segunda alteracao do master
 
-mais uma linha qualquer para o giff
+mais uma linha qualquer para o diff
